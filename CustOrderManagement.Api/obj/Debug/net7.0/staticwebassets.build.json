@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hnhlWfQdIUlQFF3gj+YVK1I+KaNaQ1biazFVfzV9FyU=",
+  "Source": "CustOrderManagement.Api",
+  "BasePath": "_content/CustOrderManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
