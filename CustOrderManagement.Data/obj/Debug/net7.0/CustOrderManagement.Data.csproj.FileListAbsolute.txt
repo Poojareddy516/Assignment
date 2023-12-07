@@ -1,0 +1,12 @@
+C:\repos\CustOrderManagement\CustOrderManagement.Data\bin\Debug\net7.0\CustOrderManagement.Data.deps.json
+C:\repos\CustOrderManagement\CustOrderManagement.Data\bin\Debug\net7.0\CustOrderManagement.Data.dll
+C:\repos\CustOrderManagement\CustOrderManagement.Data\bin\Debug\net7.0\CustOrderManagement.Data.pdb
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\CustOrderManagement.Data.csproj.AssemblyReference.cache
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\CustOrderManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\CustOrderManagement.Data.AssemblyInfoInputs.cache
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\CustOrderManagement.Data.AssemblyInfo.cs
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\CustOrderManagement.Data.csproj.CoreCompileInputs.cache
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\CustOrderManagement.Data.dll
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\refint\CustOrderManagement.Data.dll
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\CustOrderManagement.Data.pdb
+C:\repos\CustOrderManagement\CustOrderManagement.Data\obj\Debug\net7.0\ref\CustOrderManagement.Data.dll
